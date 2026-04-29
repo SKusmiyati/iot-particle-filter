@@ -12,7 +12,7 @@ Implementasi **Particle Filter** pada sistem IoT berbasis **ESP32 dan MPU6050** 
 
 📄 Full Report: [`docs/laporan.pdf`](docs/laporan.pdf)
 🎥 Demo Video: *(isi link YouTube di sini)*
-🔗 GitHub Repo: *(akan otomatis saat upload)*
+🔗 GitHub Repo:(https://github.com/SKusmiyati/iot-particle-filter)
 
 ---
 
